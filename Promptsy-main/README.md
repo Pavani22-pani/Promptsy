@@ -75,4 +75,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE)
 ## Contact
 
 For any inquiries or support, please contact:  
-📧 [chethanapotukanam@gmail.com](mailto:chethanapotukanam@gmail.com)
+📧 [mekalapavani.pani@gmail.com](mailto:mekalapavani.pani@gmail.com)
