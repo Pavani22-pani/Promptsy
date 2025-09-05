@@ -1,0 +1,23 @@
+{
+  "name": "promptsy-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pavani22-pani/Promptsy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pavani22-pani/Promptsy/issues"
+  },
+  "homepage": "https://github.com/Pavani22-pani/Promptsy#readme",
+  "description": "",
+  "dependencies": {
+    "convex": "^1.26.2"
+  }
+}

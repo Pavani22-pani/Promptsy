@@ -10,7 +10,6 @@ SnapSite is a powerful web application that allows users to prompt, run, edit, a
 - **AI-Powered Code Generation**: Generate React-based projects with Tailwind CSS styling using AI prompts.
 - **Workspace Management**: Save and manage your workspaces for easy access to previous projects.
 - **Live Code Preview**: Use Sandpack to edit and preview your code in real-time.
-- **Token-Based System**: Manage your usage with tokens and upgrade plans as needed.
 - **User Authentication**: Secure login with Google OAuth.
 - **Responsive Design**: Fully responsive UI for both desktop and mobile devices.
 
@@ -75,4 +74,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE)
 ## Contact
 
 For any inquiries or support, please contact:  
-📧 [chethanapotukanam@gmail.com](mailto:chethanapotukanam@gmail.com)
+📧 [mekalapavani.pani@gmail.com](mailto:mekalapavani.pani@gmail.com)
